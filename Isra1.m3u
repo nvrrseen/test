@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:0,Ch.11
+https://82-80-192-13.vidnt.com/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/chunklist_w2031543557_b1928000.m3u8?ttl=1521305692&cdn_token=4025d974a95779e2df3d70178e3752d8
+#EXTINF:0,Ch.33
+https://62-90-90-52.vidnt.com/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/chunklist_w48594442_b1928000.m3u8?ttl=1521305805&cdn_token=ab3709e2615d22dacf910f3d553f630c
+#EXTINF:0,Ch.33 Bk Up
+rtmp://ipbc-s.vidnt.com/ipbc_IPBCmakantvLVMRepeat/IPBCmakantvLVM_3
+#EXTINF:0,Ch.33 Bk Up 2
+https://besttv511.aoslive.it.best-tv.com/egress/bhandler/reshet/bb01/chunklist_b3682304.m3u8
+#EXTINF:0,Ch.33 Bk Up 3
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w997581554.m3u8
+#EXTINF:0,Ch.14
+http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b2400000.m3u8
+#EXTINF:0,Ch.20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:0,Ch.23
+http://IL28.cast-tv.com:1935/25400_LIVE_Live2018_1.stream/_definst_/25400_LIVE_Free734777_1.stream/chunklist_w2104786917.m3u8
+#EXTINF:0,Sport 5
+http://osasnmioa10mf.tarefet.com:8080/hls/sport1.m3u8
